@@ -1,5 +1,6 @@
 # Notes-Taking-App
 link to video : https://drive.google.com/drive/folders/1vBTOWtTqJP8jWXaHnMsO5QtjNvj98cxv?usp=sharing
+website link : https://gentle-lollipop-5447b2.netlify.app/
 
 steps to access the file.
 1. Open the index.html file via chrome broweser.
